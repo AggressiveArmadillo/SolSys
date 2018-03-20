@@ -1,2 +1,2 @@
 # SolSys
-Simulation of planetary motion.
+GUI for simulation of planetary motion for MATLAB. 
